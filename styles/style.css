@@ -1,0 +1,142 @@
+.clearfix{
+  clear:both;
+}
+
+/*navbar*/
+nav{
+  background-color:green;
+  
+}
+nav ul{
+  list-style:none;
+}
+nav li{
+  display:inline-block;
+  padding:12px;
+}
+nav a{
+  text-decoration:none;
+  color:white;
+  font-size:1.2em;
+}
+
+.link1:hover{
+  color:red;
+  transition:3s;
+}
+
+.main-content{
+  width:94%;
+  margin-right:auto;
+  margin-left:auto;
+}
+.content{
+  width:69%;
+  margin-right:1%;
+  float:left;
+}
+.aside{
+  width:70%;
+  float:left;
+}
+
+/*top-content*/
+.top-content img{
+  width:550px;
+  float:left;
+  margin-right:10px;
+}
+
+.top-content ul{
+  list-style:none;
+}
+.top-content li{
+  line-height:90px;
+}
+.top-content a{
+  text-decoration:none;
+  font-size:1.1em;
+  
+}
+.link2:hover{
+  color:red;
+  transition:2s;
+}
+.sub-content{
+  width:50%;
+  float:left;
+  color:blue;
+  
+}
+.sub-content img{
+  width:350px;
+  
+}
+.sub-content ul{
+  list-style:none;
+}
+.sub-content li{
+  line-height:30px;
+  
+}
+.sub-content a
+{text-decoration:none;}
+aside img{
+  width:300px;
+}
+
+.selectAll {
+  padding: 5px;
+  
+  background-color: blue;
+  text-decoration: none;
+  border-radius: 4px;
+}
+h3{
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a.addProduct1:hover {
+  color:red;
+  transition:  0.3s;
+  text-decoration:none;
+}
+a.addProduct1 {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 0 7px;
+  background-color: #BADBB2;
+  border-radius: 3px;
+  margin-left:15px;
+}
+a.addProduct2:hover {
+  color:red;
+  transition:  0.3s;
+  text-decoration:none;
+}
+a.addProduct2 {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 0 7px;
+  background-color: #BADBB2;
+  border-radius: 3px;
+  margin-left:15px;
+}
+a.addProduct3:hover {
+  color:red;
+  transition:  0.3s;
+  text-decoration:none;
+}
+a.addProduct3 {
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 0 7px;
+  background-color: #BADBB2;
+  border-radius: 3px;
+  margin-left:15px;
+}
